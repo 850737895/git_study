@@ -5,7 +5,10 @@ package com.hnnd.controller;
  */
 public class TestController {
 
-    public void test() {
+    public void testA() {
         System.out.println("A");
+    }
+    public void testB() {
+        System.out.println("B");
     }
 }
