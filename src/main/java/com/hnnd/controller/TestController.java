@@ -23,4 +23,8 @@ public class TestController {
     public void TestE() {
         System.out.println("E");
     }
+
+    public void TestF() {
+        System.out.println("F");
+    }
 }

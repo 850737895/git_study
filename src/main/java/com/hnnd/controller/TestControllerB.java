@@ -8,4 +8,8 @@ public class TestControllerB {
     public void testB1() {
 
     }
+
+    public void testB2() {
+
+    }
 }
