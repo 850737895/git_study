@@ -9,6 +9,6 @@ public class TestController {
         System.out.println("A");
     }
     public void testB() {
-        System.out.println("B");
+        System.out.println("B                     ");
     }
 }
