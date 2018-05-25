@@ -15,4 +15,12 @@ public class TestController {
     public void testC() {
         System.out.println("C");
     }
+
+    public void TestD() {
+        System.out.println("D");
+    }
+
+    public void TestE() {
+        System.out.println("E");
+    }
 }
