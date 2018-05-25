@@ -11,4 +11,8 @@ public class TestController {
     public void testB() {
         System.out.println("B                     ");
     }
+
+    public void testC() {
+        System.out.println("C");
+    }
 }
