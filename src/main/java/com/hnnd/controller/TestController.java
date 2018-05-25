@@ -26,5 +26,6 @@ public class TestController {
 
     public void TestF() {
         System.out.println("F");
+        System.out.println("F-F");
     }
 }
